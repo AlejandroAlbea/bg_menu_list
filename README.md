@@ -13,7 +13,7 @@ INSTRUCIONES DE INSTALACIÓN:
 
 3- Ir a la carpeta de [esx] y borrar el anterior esx_menu_list
 
-4- Añadir el esx_menu_list del color deseado. Recuerda borrar del nombre el colo, ejemplo: esx_menu_list_rojo tiene que ser ==> esx_menu_list
+4- Añadir el esx_menu_list del color deseado. Recuerda borrar del nombre el color, ejemplo: esx_menu_list_rojo tiene que ser ==> esx_menu_list
 
 (RECUERDA INICIAR LA CARPETA EN EL server.cfg. EJEMPLO: ensure [esx] para toda la carpeta. PARA UN SCRIPT EN ESPECIFICO, EJEMPLO: ensure bg_rpchat)
 
